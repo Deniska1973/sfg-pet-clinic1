@@ -14,7 +14,8 @@
     </parent>
     <groupId>guru.springfarmework</groupId>
     <artifactId>sfg-pet-clinic1</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
+
     <name>sfg-pet-clinic1</name>
     <description>Demo project for Spring Boot</description>
 
@@ -44,7 +45,9 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/Deniska1973/sfg-pet-clinic1.git</developerConnection>
+        <!--<developerConnection>scm:git:https://github.com/Deniska1973/sfg-pet-clinic1.git</developerConnection>-->
+        <developerConnection>scm:git:https://Deniska1973:SamerAzar1@github.com/Deniska1973/sfg-pet-clinic1.git</developerConnection>
+        <!--https://Deniska1973:SamerAzar1@github.com/Deniska1973/sfg-pet-clinic1.git -->
       <tag>HEAD</tag>
   </scm>
 
