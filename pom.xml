@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springfarmework</groupId>
     <artifactId>sfg-pet-clinic1</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>sfg-pet-clinic1</name>
     <description>Demo project for Spring Boot</description>
 
