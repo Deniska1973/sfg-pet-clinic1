@@ -45,7 +45,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/Deniska1973/sfg-pet-clinic1.git</developerConnection>
-      <tag>sfg-pet-clinic1-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
